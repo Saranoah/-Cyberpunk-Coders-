@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] ☠️ SOULKILLER PROTOCOL v9.6.6
+☠️ SOULKILLER PROTOCOL v9.6.6
 (A Digital Exorcism Routine)
 
 rust
