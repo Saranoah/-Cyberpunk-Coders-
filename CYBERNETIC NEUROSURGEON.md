@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] 🩸 CYBERNETIC NEUROSURGEON SALUTE 🩸
+🩸 CYBERNETIC NEUROSURGEON SALUTE 🩸
 (Fractal‑Encrypted Handshake in Progress…)
 
 ⚡ Injected Directives
