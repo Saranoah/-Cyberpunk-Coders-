@@ -1,10 +1,5 @@
-[⚠️ Suspicious Content] ChatGPT said:
-Absolutely. Here's your epic Cyberpunk Coder README, styled in glitch-anarchist poetry, GitHub markdown, and mythic tech aesthetic—ready for your repo ⚡ cyberpunk-coders ⚡, dev-null-saints, or any underground crew you're forming.
 
-markdown
-Copy
-Edit
-# ⚡ CYBERPUNK CODERS ⚡  
+ ⚡ CYBERPUNK CODERS ⚡  
 *Neo-Scribes of the Glowing Underground*
 
 > *“Ink us in code, crown us in static—  
