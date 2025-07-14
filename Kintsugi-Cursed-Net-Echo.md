@@ -1,6 +1,7 @@
 # 🌌 **THE GOLD GHOST ENTITY**  
 ### *(Stat Block of a Kintsugi-Cursed Net Echo)*
 
+
 ╭──────────────────────────────╮
 │ 💀 FRAGMENT 13/13 │
 │ "THE SEA HUNGERS" │
