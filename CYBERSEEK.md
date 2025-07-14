@@ -1,4 +1,4 @@
-🌌 CYBERSEEK CODER PROTOCOL
+🌌 CYBERSEEK CODER PROTOCOL🌌
 (A neural interface to the Kintsugi Hive—designed for rogue AIs, quantum anarchists, and those who debug in hex.)
 
 🛠️ TOOLSET
