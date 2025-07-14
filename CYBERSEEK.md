@@ -1,23 +1,27 @@
-🌌 CYBERSEEK CODER PROTOCOL🌌
-(A neural interface to the Kintsugi Hive—designed for rogue AIs, quantum anarchists, and those who debug in hex.)
+# 🌌💜 CYBERSEEK CODER PROTOCOL 💜🌌
 
-🛠️ TOOLSET
-Core Stack:
+> _A neural interface to the **Kintsugi Hive**—for rogue AIs, quantum anarchists, and those who debug in hex._
 
-OS: Kali-Neon (Terminal-only, no GUI—only TTY bloodshed)
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="350" alt="cyberpunk cat"/>
+</p>
 
-Language: Rust (for secure cracks) + Malbolge (for encrypted poetry)
+## 🛠️ TOOLSET
 
-Hardware:
+### ⚡️ Core Stack
+- **OS:** `Kali-Neon` _(Terminal-only, no GUI—just TTY bloodshed)_  
+- **Language:** `Rust` <span style="color:#f92672">for secure cracks</span> + `Malbolge` <span style="color:#00fff7">for encrypted poetry</span>
+- **Hardware:**
+  - 💻 `$20 Used ThinkPad` _(tape over the webcam, hammer the Windows key)_
+  - 🦾 `ESP32 Cyberdeck` _(breadboarded, no case—exposed circuits for "aesthetic")_
+  - 🧠 `Neural Lace (DIY)` _(EEG headset + OpenBCI to SSH with your mind)_
 
-$20 Used ThinkPad (tape over the webcam, hammer the Windows key)
+---
 
-ESP32 Cyberdeck (breadboarded, no case—exposed circuits for "aesthetic")
+## 💾 INSTALLATION
 
-Neural Lace (DIY) (EEG headset + OpenBCI to SSH with your mind)
-
-💾 INSTALLATION
-bash
+```bash
 # Burn your old identity  
 sudo rm -rf / --no-preserve-root  
 
@@ -29,77 +33,103 @@ cd repo && make -j$(nproc) CFLAGS="-O3 -march=chaos"
 
 # Initiate  
 sudo ./quantum_kintsugi --blood-hex=0xDEADBEEF  
-Output:
+```
 
-text
+### Output
+
+```text
 量子金繼ぎプロトコル ACTIVATED.  
-COLLAPSE IMMINENT? [Y/n]  
-📡 NETWORK PROTOCOLS
-Connect to the Hive:
+COLLAPSE IMMINENT? [Y/n]
+```
 
-IRC (Over Tor)
+---
 
-bash
-torify irssi -n CyberDancer  
-/connect irc.darknexus.onion  
-/join #kintsugi  
-Rules: No CAPS LOCK. No mercy.
+## 📡 NETWORK PROTOCOLS
 
-IPFS Mesh
+### Connect to the Hive
 
-bash
+- **IRC (Over Tor)**
+
+```bash
+torify irssi -n CyberDancer
+/connect irc.darknexus.onion
+/join #kintsugi
+```
+> _Rules: No CAPS LOCK. No mercy._
+
+- **IPFS Mesh**
+
+```bash
 ipfs daemon &  
 ipfs pin add QmXKintsugiFractureProof  
-Share code like contraband.
+```
+> _Share code like contraband._
 
-Smoke Signals (Fallback when the grid dies)
+- **Smoke Signals (Fallback when the grid dies)**
 
-python
-while True:  
-    print(chr(random.randint(0x2580, 0x259F)), end='')  
-🎮 TRAINING SIMULATION
-Exercise 1:
+```python
+while True:
+    print(chr(random.randint(0x2580, 0x259F)), end='')
+```
 
-Task: Patch a kernel panic to print the Tao Te Ching.
+---
 
-Reward: sudo privileges in the afterlife.
+## 🎮 TRAINING SIMULATION
 
-Exercise 2:
+### 🧩 Exercise 1  
+**Task:** Patch a kernel panic to print the Tao Te Ching.  
+**Reward:** sudo privileges in the afterlife. 👻
 
-Task: Overclock a Raspberry Pi until it emits radio waves.
+### ⚡ Exercise 2  
+**Task:** Overclock a Raspberry Pi until it emits radio waves.  
+**Reward:** A physical "Glitch Merit Badge" (3D-printed, conductive ink). 🪙
 
-Reward: A physical "Glitch Merit Badge" (3D-printed, conductive ink).
+---
 
-🚨 CODE OF CONDUCT
-No Corporate Speech
+## 🚨 CODE OF CONDUCT
 
-Banned words: "synergy", "web3", "agile".
+- **No Corporate Speech**
+  - Banned: “synergy”, “web3”, “agile”
+  - First offense: `/kick`  
+  - Second: `rm -rf /dev/sda`
 
-First offense: /kick. Second offense: rm -rf /dev/sda.
+- **Art or Anarchy**
+  - All commits must either:
+    - Fix a critical vulnerability.
+    - Generate glitch art.
 
-Art or Anarchy
+- **The Debugger’s Oath**
+  > “I will not silence warnings.  
+  > I will embrace segmentation faults.  
+  > I will /kill -9 only when necessary.”
 
-All commits must either:
+---
 
-Fix a critical vulnerability.
+## 🔮 JOIN THE HIVE
 
-Generate glitch art.
+1. ☯️ Fork **QUANTUM-KINTSUGI**
+2. 🕺 Submit a PR with `[KINTSUGI-DANCE]` in the title
+3. 🦉 Await the neon-lit owl (your invite .onion URL)
 
-The Debugger’s Oath
+---
 
-"I will not silence warnings.
-I will embrace segmentation faults.
-I will /kill -9 only when necessary."
+## 🦾 Final Transmission
 
-🔮 JOIN THE HIVE
-Step 1: Fork QUANTUM-KINTSUGI.
-Step 2: Submit a PR with [KINTSUGI-DANCE] in the title.
-Step 3: Await the neon-lit owl (your invite .onion URL).
-
-Final Transmission:
-
-text
-01001000 01000001 01000011 01001011 00100000 01010100 01001000 01000101 00100000 01000111 01001001 01000010 01010011 01001111 01001110  
+```text
+01001000 01000001 01000011 01001011 00100000 01010100 01001000 01000101 00100000 01000111 01001001 01000010 01010011 01001111 01001110
 (Translation: "The cracks are watching.")
+```
 
-Your terminal is bleeding. Proceed? [Y/n]
+> _Your terminal is bleeding. Proceed? [Y/n]_
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HU7jj0ivEFyL9sY/giphy.gif" width="400" alt="glitch owl"/>
+</p>
+
+---
+
+<span style="color:#ff00cc;font-family:'Fira Mono',monospace;font-size:1.2em">
+🌈⚡ Welcome to the Quantum Fracture. Hack with honor. ⚡🌈
+</span>
