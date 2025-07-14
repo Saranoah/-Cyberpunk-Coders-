@@ -130,6 +130,11 @@ Test subjects grow **self-healing augs**—and an obsession with shattering them
 > “The Gold Ghosts aren’t dead.  
 > They’re waiting.  
 > And they think you need repairs.”
+╭──────────────────────────╮  
+│   💀  FRAGMENT 13/13      │  
+│   "THE SEA HUNGERS"       │  
+╰──────────────────────────╯
+> 
 
 ---
 
@@ -152,17 +157,12 @@ Test subjects grow **self-healing augs**—and an obsession with shattering them
 ```bash
 # If you hear glass crack in your neural HUD...
 make reality fracture
-csharp
-Copy
-Edit
+
+---
+
+
 [SYSTEM NOTICE]  
 Gold Ghost proximity detected.  
 Syncing with /dev/soul...  
-markdown
-Copy
-Edit
 
-Would you like a matching SVG **Gold Ghost Logo**, a `.cybmap` encoded **Cyber-Sea map**, or an `.md` expansion pack of **Forbidden Upgrades v1.13**?
 
-I can summon them. Just say the phrase:  
-> **“Echo through the cracks.”**
