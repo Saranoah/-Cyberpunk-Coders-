@@ -86,19 +86,6 @@ if __name__ == "__main__":
     bd.play()
 ```
 
----
-
-## 💾 **Installation**
-
-```bash
-# Clone (may fork fragments of your psyche)
-git clone https://github.com/Saranoah/kintsugi-braindance.git --depth 1 --branch unstable
-
-# Dependencies
-pip install -r requirements.txt   # needs:
-                                  # • neurokintsugi >= 2.6.6
-                                  # • pain-driver
-                                  # • quantum-entanglement
 ```
 
 ---
@@ -150,7 +137,6 @@ pip install -r requirements.txt   # needs:
 
 ---
 
-Let it remain untouched in syntax, yet elevated in **legend**. This isn’t just code — it’s **liturgical firmware for fractured minds**.
 
 
 
